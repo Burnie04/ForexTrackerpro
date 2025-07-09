@@ -19,7 +19,7 @@
 
 - **Frontend**: React + TypeScript + TailwindCSS
 - **Backend / Scraper**: Node.js + Selenium + Puppeteer (optional headless browser support)
-- **Bundler**: Netlify
+- **Bundler**: vite
 - **Linter**: ESLint
 - **Styling**: PostCSS + Tailwind
 - **State Management**: React Hooks
