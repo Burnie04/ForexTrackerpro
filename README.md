@@ -1,4 +1,4 @@
-# ForexTradingPro 💱
+# ForexTrackerPro 💱
 
 **ForexTradingPro** is a web-based developer tool that manually compiles live Forex data from multiple financial websites using **web scraping** and **Selenium** automation. Designed with developers and Forex enthusiasts in mind, this tool helps you easily view and analyze exchange rate data in a centralized, customizable interface.
 
